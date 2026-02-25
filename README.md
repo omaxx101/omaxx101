@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Omax 👋
 
-<!--
-**omaxx101/omaxx101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building cool things with code  
+🌱 Currently learning: [your current focus — e.g. React, Python, AI, etc.]  
+🚀 Working on: [project name or idea]  
+🤝 Open to collaborating on: [type of projects]  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Languages: [Python, JavaScript, etc.]
+- Frameworks: [React, Node, etc.]
+- Tools: [Git, Docker, VS Code, etc.]
+
+---
+
+### 📌 Featured Projects
+🔹 [Project Name] — short description  
+🔹 [Project Name] — short description  
+🔹 [Project Name] — short description  
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/omaxx101  
+- LinkedIn: [your link]  
+- Email: [your email]
+
+---
+
+### ⚡ Fun Fact
+I can debug code faster with coffee ☕
