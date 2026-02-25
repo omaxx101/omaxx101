@@ -1,4 +1,4 @@
-# Hi, I'm Omax 👋
+# Hi, I'm Oumer
 
 💻 Passionate about building cool things with code  
 🌱 Currently learning: [your current focus — e.g. React, Python, AI, etc.]  
