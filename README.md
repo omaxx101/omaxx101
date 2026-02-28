@@ -1,4 +1,4 @@
-# Hi, I'm Oumer 👋
+# Hi, I'm Oumer 
 
  Mechatronics Engineering Technology student  
  I love building real-world tech  
@@ -31,7 +31,9 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
+🔹 ** DUMM-E Artcos Robot Arm **  
+ An open source Robot arm that picks and places and demonstartes inverse kinematics 
 
 🔹 **Autonomous Maze Solver Robot**  
 Robot that solves any maze using the left-wall algorithm  
