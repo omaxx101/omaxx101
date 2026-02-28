@@ -1,32 +1,30 @@
-# Hi, I'm Oumer
+Hi, I'm Oumer 
 
-💻 Passionate about building cool things with code  
-🌱 Currently learning: [your current focus — e.g. React, Python, AI, etc.]  
-🚀 Working on: [project name or idea]  
-🤝 Open to collaborating on: [type of projects]  
+Mechatronics Engineering Technology student who loves building real-world tech
+Currently learning: Flutter
+Interested in robotics, automation, and embedded systems
+Open to collaborating on robotics, Arduino, and software projects
 
----
+Tech Stack
 
-### 🛠 Tech Stack
-- Languages: [Python, JavaScript, etc.]
-- Frameworks: [React, Node, etc.]
-- Tools: [Git, Docker, VS Code, etc.]
+Languages: C, C++, Python, HTML/CSS, MicroPython, Dart, Flutter
+Hardware & Engineering: Arduino (Mega, Uno, Nano), PLC (Siemens, Allen-Bradley), 3D Printing, CNC machining, Lathe machining
+Tools: Git, AutoCAD Electrical, Inventer , Fusion 360 
 
----
+Featured Projects
 
-### 📌 Featured Projects
-🔹 [Project Name] — short description  
-🔹 [Project Name] — short description  
-🔹 [Project Name] — short description  
+🔹 Autonomous Maze Solver Robot — Built a robot that solves any maze using the left-wall algorithm
+🔹 Remote Light Switch — Arduino-based servo system controlled by IR remote
+🔹 4-Story Elevator Model — Designed, 3D printed, wired, and programmed a functional elevator
+🔹 Pygame Snake Game — Developed and packaged a playable Python game
 
----
 
-### 📫 Connect With Me
-- GitHub: https://github.com/omaxx101  
-- LinkedIn: [your link]  
-- Email: [your email]
 
----
+📫 Connect With Me
 
-### ⚡ Fun Fact
-I can debug code faster with coffee ☕
+GitHub: https://github.com/omaxx101
+
+LinkedIn: Oumer Abdulkadir
+
+Email: oumersatmax@gmail.com
+
