@@ -16,7 +16,7 @@
 **Frameworks**
 - Flutter  
 
-**Hardware & Engineering**
+**Mechatronics Engineering**
 - Arduino (Mega, Uno, Nano)  
 - PLC (Siemens, Allen-Bradley)  
 - CNC Machining  
@@ -52,5 +52,5 @@ Developed and packaged a playable Python game
 ## Connect With Me
 
 - GitHub: https://github.com/omaxx101  
-- LinkedIn: Oumer Abdulkadir  
+- LinkedIn: [Oumer Abdulkadir ](https://www.linkedin.com/in/oumer-abdulkadir-140a24255/) 
 - Email: oumersatmax@gmail.com
